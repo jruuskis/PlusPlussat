@@ -1,11 +1,12 @@
 # PlusPlussat | Ohjelmistoprojekti 1
 
 ## Scrum-syklin yleiskuvaus
-Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme se on varmaan 1 - 2 viikkoa. 
+Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme se on varmaan 1 - 2 viikkoa.
+
+![scrumprocess](https://www.freepik.com/free-vector/scrum-infographic_8806106.htm#query=scrum&position=0&from_view=keyword)
 
 ## Sprintit
-super sprint 🏃🏻‍♂️
-Sprinti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
+ 🏃🏻‍♂️ Sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 ___
 
 Sprintin vaiheet:
