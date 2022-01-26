@@ -9,5 +9,6 @@ super sprint 🏃🏻‍♂️
 ## Roolit
 
 ## Kokoukset
+testaus
 
 ## Miksi Scrum toimii?
