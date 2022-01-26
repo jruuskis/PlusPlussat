@@ -6,6 +6,7 @@
 super sprint 🏃🏻‍♂️
 Sprinti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 ## Työjonot
+Työjona tulee olemaan paljon. Ruuhkaa!
 
 ## Roolit
 <<<<<<< HEAD
