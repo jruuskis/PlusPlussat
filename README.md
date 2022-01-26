@@ -8,6 +8,10 @@
 
 ## Roolit
 
+Scrum Master
+Product Owner
+Development team
+
 ## Kokoukset
 
 ## Miksi Scrum toimii?
