@@ -3,7 +3,7 @@
 ## Scrum-syklin yleiskuvaus
 
 ## Sprintit
-
+super sprint 🏃🏻‍♂️
 ## Työjonot
 
 ## Roolit
