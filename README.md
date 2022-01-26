@@ -3,7 +3,7 @@
 ## Scrum-syklin yleiskuvaus
 Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme se on varmaan 1 - 2 viikkoa.
 
-![scrumprocess](https://www.freepik.com/free-vector/scrum-infographic_8806106.htm#query=scrum&position=0&from_view=keyword)
+![scrumprocess](https://image.freepik.com/free-vector/scrum-infographic_23-2148582396.jpg)
 
 ## Sprintit
  🏃🏻‍♂️ Sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
