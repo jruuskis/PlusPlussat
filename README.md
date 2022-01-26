@@ -4,12 +4,12 @@
 
 ## Sprintit
 super sprint 🏃🏻‍♂️
-Sprinti kestävät yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
+Sprinti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 ## Työjonot
 
 ## Roolit
 
 ## Kokoukset
-testaus
+
 
 ## Miksi Scrum toimii?
