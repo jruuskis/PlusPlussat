@@ -8,6 +8,8 @@ Sprinti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin l
 ## Työjonot
 
 ## Roolit
+<<<<<<< HEAD
+Roolit tähän
 
 Scrum Master
 Product Owner
@@ -15,5 +17,14 @@ Development team
 
 ## Kokoukset
 
+=======
+Product Owner: kurssin opettaja 
+Scrum master: ??? 
+Kehittäjät: 
 
-## Miksi Scrum toimii?
+## Kokoukset
+Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
+
+## Miksi Scrum toimii? 
+>>>>>>> c6663e13a6eaaec9f3eb25e12c7466a6456604be
+
