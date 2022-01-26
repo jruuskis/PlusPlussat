@@ -14,5 +14,6 @@ Product Owner
 Development team
 
 ## Kokoukset
+testaus
 
 ## Miksi Scrum toimii?
