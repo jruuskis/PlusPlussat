@@ -8,6 +8,7 @@ Sprinti kestävät yhden viikon ja sprintin katselmointi järjestetään kurssin
 ## Työjonot
 
 ## Roolit
+Roolit tähän
 
 ## Kokoukset
 testaus
