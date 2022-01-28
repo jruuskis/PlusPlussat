@@ -6,15 +6,26 @@ Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme
 ![scrumprocess](https://image.freepik.com/free-vector/scrum-infographic_23-2148582396.jpg)
 
 ## Sprintit
- 🏃🏻‍♂️ Sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
+ 🏃🏻‍♂️ Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 ___
 
-Sprintin vaiheet:
+### Sprintin vaiheet
 
-1. Sprint planning 
-2. Sprint review
-3. Sprint retrospective 
-4. Daily scrum meeting (tätä vaihetta projektissamme ei ole)
+1. **Sprintin suunnittelu**
+
+   Sprintin suunnittelu tehdään yhdessä Scrum-tiimin kanssa. Suunnittelun tarkoitus on kasvattaa tuotteen arvoa ja siinä valitaan seuraavaksi tehtävät työt kehitysjonosta. Tuoteomistaja varmistaa, että valitut työt edistävät tuotteen tavoitetta. Työt määritellään niin, että suunniteltu inkrementti saadaan valmiiksi. Suunnittelussa määritellään siis sprintin tavoite.
+
+2. **Sprintin katselmointi**
+
+   Katselmoinnissa tarkastellaan sprintin tuloksia ja arvioidaan vastaavatko ne sprintin tavoittetta. Tulokset esitellään tuoteomistajalle ja muille sidosryhmille, jotka ovat tässä tapauksessa muita opiskelijoita. Katselmoinnisa voidaan myös muokata työjonoa ja keskustella seuraavista tehtävistä.
+
+3. **Sprintin retrospektiivi**
+
+   Retrospektiivissa arviodaan menneen sprintin yhteistyötä, prosesseja ja työkaluja. Retrospektiivissa arvioidaan myös sitä, miten hyvin inkrementti vastasi valmiin määritelmää. Tarkoituksena on tunnistaa kehityskohteita työmenetelmissä, jotta tehokkuutta voidaan parantaa. Retrospektiivi päättää sprintin. 
+
+4. **Päivittäispalaveri**
+
+   Päivittäispalaverissa tarkastellaan työn etenemistä kohti sprintin tavoitetta. Tässä Projektissa ei pidetä päivittäispalaveraja, mutta työn edistymisestä viestitään Teams-ryhmässä.
 
 ## Työjonot
 Työjona tulee olemaan paljon. Ruuhkaa!
