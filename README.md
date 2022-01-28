@@ -4,9 +4,10 @@
 Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme se on varmaan 1 - 2 viikkoa.
 
 ![scrumprocess](https://image.freepik.com/free-vector/scrum-infographic_23-2148582396.jpg)
+___
 
 ## Scrumin arvot
-Jotta Scrumia pystytään hyödyntämään menestyksekkäästi, niin Scrum-tiimin jäsenten pitää olla sitotuneita viiden arvon noudattamiseen ja niiden omaksumiseen yhä paremmin. PlusPlussat sitoutuvat noudattamaan Scrumin arvoja.
+Jotta Scrumia pystytään hyödyntämään menestyksekkäästi, niin Scrum-tiimin jäsenten pitää olla sitotuneita viiden arvon noudattamiseen ja niiden omaksumiseen yhä paremmin. **PlusPlussat sitoutuvat noudattamaan Scrumin arvoja.**
 
 ### Viisi arvoa
 - Sitoutuminen
@@ -14,13 +15,11 @@ Jotta Scrumia pystytään hyödyntämään menestyksekkäästi, niin Scrum-tiimi
 - Avoimuus
 - Kunnioitus
 - Rohkeus
-
+___
 ## Sprintit
  🏃🏻‍♂️ Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
-___
 
 ### Sprintin vaiheet
-
 1. **Sprintin suunnittelu**
 
    Sprintin suunnittelu tehdään yhdessä Scrum-tiimin kanssa. Suunnittelun tarkoitus on kasvattaa tuotteen arvoa ja siinä valitaan seuraavaksi tehtävät työt kehitysjonosta. Tuoteomistaja varmistaa, että valitut työt edistävät tuotteen tavoitetta. Työt määritellään niin, että suunniteltu inkrementti saadaan valmiiksi. Suunnittelussa määritellään siis sprintin tavoite.
@@ -36,7 +35,7 @@ ___
 4. **Päivittäispalaveri**
 
    Päivittäispalaverissa tarkastellaan työn etenemistä kohti sprintin tavoitetta. Tässä Projektissa ei pidetä päivittäispalaveraja, mutta työn edistymisestä viestitään Teams-ryhmässä.
-
+___
 ## Tuotokset
 Scrumin tuotokset ovat työtä ja sen tuottamaa arvoa. Tuotosten on tarkoitus lisätä läpinäkyvyyttä niin, että kaikilla on mahdollisuus tarkastella asioita samoista lähtökohdista.
 
@@ -46,25 +45,22 @@ Tuotos sisältää sidoksen, jolla varmistetaan, että työn edistymistä vo
 - Inkrementti on sidottu valmiin määritelmään
 
 ### Tuotteen kehitysjono
-
 Tuotteen kehitysjonossa olevien töiden pitää edistää tuotteen tavoitteen saavuttamista. Se on ainoa lähde Scrum-tiimin tekemälle työlle. Kehitysjonoa muokataan tarpeen mukaan tuotteen parantamiseksi. Kehitysjonon kohtia pilkotaan pienemmiksi kokonaisuuksi, jotka voidaan toteuttaa sprinteissä.
 
 ### Sprintin kehitysjono
-
 Sprintin kehitysjonon kohtien pitää edistää sprintin saavuttamista. Sprintin kehitysjono vastaa kolmeen kysymykseen. Ensimmäinen kysymys edustaa sprintin tavoitetta: **Miksi työtä tehdään?** Seuraavana ovat tuotteen kehitysjonosta sprinttiin valitut kohdat: **Mitä tehdään?** Viimeisenä on käytännön suuunnitelma työn tekemiseksi: **Miten valmis inkrementti toteutetaan?**
 
 ### Inkrementti
-
 Inkrementti on askel kohti tuotteen tavoitetta. Yhdessä sprintissä voidaan tehdä useampia inkrementtejä. Inkrementti syntyy vasta silloin kun tuotteen kehitysjonon kohta täyttää valmiin määritelmän.
-
+___
 ## Roolit
 - **Scrum Master** : pitää päättää
 - **Tuotteen omistaja (Product Owner)** : kurssin opettaja 
 - **Kehitystiimi (Development team)**
-
+___
 ## Kokoukset
 Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
-
+___
 ## Miksi Scrum toimii? 
 
 
