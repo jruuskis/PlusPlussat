@@ -23,6 +23,20 @@ ___
  🏃🏻‍♂️ Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 
 ### Sprintin vaiheet
+
+1. Sprint planning 
+    - määritellään, mitä tulevassa sprintissä tehdään. Suunnitteluun osallistuu koko Scrum Team. Product Owner esittelee, mitä sprintin päätteeksi halutaan nähdä valmistuneen, ja kehitystiimi valitsee tavoitetta tukevia asioita product backlogista. Nämä itemit jaetaan edelleen pienemmiksi tehtäviksi.
+
+2. Daily scrum meeting
+    - kehitystiimi käy lyhyesti läpi mitä on tehnyt edellisenä päivänä, mitä aikoo tehdä tänään, ja onko työlle esteitä. Scrum Masterin tehtävä on poistaa esteet kehitystiimin tieltä. Tässä projektissa dailya ei käytetä, vaan viestimme sprintin etenemisestä Teamsissa.
+
+3. Sprint review
+    - käydään läpi valmistunutta sprintiä. Demotaan lopputulos Product Ownerille. Mietitään, onko product backlogia tai projektin suuntaa syytä muuttaa, vai jatketaanko samaan malliin.
+
+4. Sprint retrospective 
+    - arvioidaan tiimin työskentelyä ja työtapoja. Mitä voitaisiin tehdä seuraavassa sprintissä paremmin?
+
+
 1. **Sprintin suunnittelu**
 
    Sprintin suunnittelu tehdään yhdessä Scrum-tiimin kanssa. Suunnittelun tarkoitus on kasvattaa tuotteen arvoa ja siinä valitaan seuraavaksi tehtävät työt kehitysjonosta. Tuoteomistaja varmistaa, että valitut työt edistävät tuotteen tavoitetta. Työt määritellään niin, että suunniteltu inkrementti saadaan valmiiksi. Suunnittelussa määritellään siis sprintin tavoite.
@@ -41,21 +55,6 @@ ___
 ___
 ## Tuotokset
 Scrumin tuotokset ovat työtä ja sen tuottamaa arvoa. Tuotosten on tarkoitus lisätä läpinäkyvyyttä niin, että kaikilla on mahdollisuus tarkastella asioita samoista lähtökohdista.
-
-
-Sprintin vaiheet, "sprint events":
-
-1. Sprint planning 
-    - määritellään, mitä tulevassa sprintissä tehdään. Suunnitteluun osallistuu koko Scrum Team. Product Owner esittelee, mitä sprintin päätteeksi halutaan nähdä valmistuneen, ja kehitystiimi valitsee tavoitetta tukevia asioita product backlogista. Nämä itemit jaetaan edelleen pienemmiksi tehtäviksi.
-
-2. Daily scrum meeting (tätä vaihetta projektissamme ei ole)
-    - kehitystiimi käy lyhyesti läpi mitä on tehnyt edellisenä päivänä, mitä aikoo tehdä tänään, ja onko työlle esteitä. Scrum Masterin tehtävä on poistaa esteet kehitystiimin tieltä.
-
-3. Sprint review
-    - käydään läpi valmistunutta sprintiä. Demotaan lopputulos Product Ownerille. Mietitään, onko product backlogia tai projektin suuntaa syytä muuttaa, vai jatketaanko samaan malliin.
-
-4. Sprint retrospective 
-    - arvioidaan tiimin työskentelyä ja työtapoja. Mitä voitaisiin tehdä seuraavassa sprintissä paremmin?
 
 =======
 Tuotos sisältää sidoksen, jolla varmistetaan, että työn edistymistä voidaan mitata läpinäkyvästi:
