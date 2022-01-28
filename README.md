@@ -5,6 +5,16 @@ Scrum-sykli kestää 1 - 4 viikkoa riippuen projektin laajudesta. Projektissamme
 
 ![scrumprocess](https://image.freepik.com/free-vector/scrum-infographic_23-2148582396.jpg)
 
+## Scrumin arvot
+Jotta Scrumia pystytään hyödyntämään menestyksekkäästi, niin Scrum-tiimin jäsenten pitää olla sitotuneita viiden arvon noudattamiseen ja niiden omaksumiseen yhä paremmin. PlusPlussat sitoutuvat noudattamaan Scrumin arvoja.
+
+### Viisi arvoa
+- Sitoutuminen
+- Keskittyminen
+- Avoimuus
+- Kunnioitus
+- Rohkeus
+
 ## Sprintit
  🏃🏻‍♂️ Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 ___
