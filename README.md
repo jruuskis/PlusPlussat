@@ -27,8 +27,25 @@ ___
 
    Päivittäispalaverissa tarkastellaan työn etenemistä kohti sprintin tavoitetta. Tässä Projektissa ei pidetä päivittäispalaveraja, mutta työn edistymisestä viestitään Teams-ryhmässä.
 
-## Työjonot
-Työjona tulee olemaan paljon. Ruuhkaa!
+## Tuotokset
+Scrumin tuotokset ovat työtä ja sen tuottamaa arvoa. Tuotosten on tarkoitus lisätä läpinäkyvyyttä niin, että kaikilla on mahdollisuus tarkastella asioita samoista lähtökohdista.
+
+Tuotos sisältää sidoksen, jolla varmistetaan, että työn edistymistä voidaan mitata läpinäkyvästi:
+- Tuotteen kehitysjono on sidottu tuotteen tavoitteeseen
+- Sprintin kehitysjono on sidottu sprintin tavoitteeseen
+- Inkrementti on sidottu valmiin määritelmään
+
+### Tuotteen kehitysjono
+
+Tuotteen kehitysjonossa olevien töiden pitää edistää tuotteen tavoitteen saavuttamista. Se on ainoa lähde Scrum-tiimin tekemälle työlle. Kehitysjonoa muokataan tarpeen mukaan tuotteen parantamiseksi. Kehitysjonon kohtia pilkotaan pienemmiksi kokonaisuuksi, jotka voidaan toteuttaa sprinteissä.
+
+### Sprintin kehitysjono
+
+Sprintin kehitysjonon kohtien pitää edistää sprintin saavuttamista. Sprintin kehitysjono vastaa kolmeen kysymykseen. Ensimmäinen kysymys edustaa sprintin tavoitetta: **Miksi työtä tehdään?** Seuraavana ovat tuotteen kehitysjonosta sprinttiin valitut kohdat: **Mitä tehdään?** Viimeisenä on käytännön suuunnitelma työn tekemiseksi: **Miten valmis inkrementti toteutetaan?**
+
+### Inkrementti
+
+Inkrementti on askel kohti tuotteen tavoitetta. Yhdessä sprintissä voidaan tehdä useampia inkrementtejä. Inkrementti syntyy vasta silloin kun tuotteen kehitysjonon kohta täyttää valmiin määritelmän.
 
 ## Roolit
 - **Scrum Master** : pitää päättää
