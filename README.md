@@ -20,7 +20,7 @@ Jotta Scrumia pystytään hyödyntämään menestyksekkäästi, niin Scrum-tiimi
 - Rohkeus
 ___
 ## Sprintit
- 🏃🏻‍♂️ Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
+ 🏃 Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 
 ### Sprintin vaiheet
 
