@@ -81,6 +81,7 @@ ___
 Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
 ___
 ## Miksi Scrum toimii? 
+Sillä se on niin hyvä! 🤟🏻
 
 ## Lähteet
 
