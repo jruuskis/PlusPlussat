@@ -91,7 +91,10 @@ ___
 Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
 ___
 ## Miksi Scrum toimii? 
-Sillä se on niin hyvä! 🤟🏻
+
+Säännölliset scrum-kokoukset takaavat, että tiimin jäsenet kommunikoivat keskenään ja pysyvät perillä kokonaisuudesta. Kun tietyt, ennalta määrätyt roolit on jaettu tiimin kesken, toiminta pysyy järjestelmällisenä.
+
+Jokainen voi tehdä omat työnsä omaan tahtiinsa. Scrum toimii, sillä se on helposti ymmärrettävä, juostava ja vuorovaikutuksellinen.
 
 ## Lähteet
 
