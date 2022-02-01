@@ -56,7 +56,6 @@ ___
 ## Tuotokset
 Scrumin tuotokset ovat työtä ja sen tuottamaa arvoa. Tuotosten on tarkoitus lisätä läpinäkyvyyttä niin, että kaikilla on mahdollisuus tarkastella asioita samoista lähtökohdista.
 
-=======
 Tuotos sisältää sidoksen, jolla varmistetaan, että työn edistymistä voidaan mitata läpinäkyvästi:
 - Tuotteen kehitysjono on sidottu tuotteen tavoitteeseen
 - Sprintin kehitysjono on sidottu sprintin tavoitteeseen
@@ -88,7 +87,9 @@ ___
    [RAV64](https://github.com/RAV64)
 ___
 ## Kokoukset
-Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
+Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa 👇 
+
+### [**PlusPlussat Teamsissa**](https://teams.microsoft.com/l/team/19%3ahBxLSfXxmEmpWYSMbVVLzk9_aS-N8A2QPb0uW4-kXw81%40thread.tacv2/conversations?groupId=6ae286f3-7f09-4e95-8b0d-cff94f07cdba&tenantId=a9e39483-dd21-4c25-b848-2a625cff7939)
 ___
 ## Miksi Scrum toimii? 
 
