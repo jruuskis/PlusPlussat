@@ -22,36 +22,24 @@ ___
 ## Sprintit
  🏃 Projektimme sprintti kestää yhden viikon ja sprintin katselmointi järjestetään kurssin luennolla joka keskiviikko.
 
-### Sprintin vaiheet
+### Sprintin vaiheet 
 
-1. Sprint planning 
-    - määritellään, mitä tulevassa sprintissä tehdään. Suunnitteluun osallistuu koko Scrum Team. Product Owner esittelee, mitä sprintin päätteeksi halutaan nähdä valmistuneen, ja kehitystiimi valitsee tavoitetta tukevia asioita product backlogista. Nämä itemit jaetaan edelleen pienemmiksi tehtäviksi.
+1. **Sprintin suunnittelu** (Sprint planning)
 
-2. Daily scrum meeting
-    - kehitystiimi käy lyhyesti läpi mitä on tehnyt edellisenä päivänä, mitä aikoo tehdä tänään, ja onko työlle esteitä. Scrum Masterin tehtävä on poistaa esteet kehitystiimin tieltä. Tässä projektissa dailya ei käytetä, vaan viestimme sprintin etenemisestä Teamsissa.
+   Sprintin suunnittelu tehdään yhdessä Scrum-tiimin kanssa. Suunnittelun tarkoitus on kasvattaa tuotteen arvoa ja siinä valitaan seuraavaksi tehtävät työt kehitysjonosta. Tuoteomistaja (Product Owner) varmistaa, että valitut työt edistävät tuotteen tavoitetta. Hän esittelee, mitä sprintin päätteeksi halutaan nähdä valmistuneen, ja kehitystiimi valitsee tavoitetta tukevia asioita product backlogista ja tarvittaessa pilkkoo tehtävät pienemmiksi. Työt määritellään niin, että suunniteltu inkrementti saadaan valmiiksi. Suunnittelussa määritellään siis sprintin tavoite.
 
-3. Sprint review
-    - käydään läpi valmistunutta sprintiä. Demotaan lopputulos Product Ownerille. Mietitään, onko product backlogia tai projektin suuntaa syytä muuttaa, vai jatketaanko samaan malliin.
+2. **Päivittäispalaveri** (Daily scrum meeting)
 
-4. Sprint retrospective 
-    - arvioidaan tiimin työskentelyä ja työtapoja. Mitä voitaisiin tehdä seuraavassa sprintissä paremmin?
+    Kehitystiimi käy lyhyesti läpi mitä on tehnyt edellisenä päivänä, mitä aikoo tehdä tänään, ja onko työlle esteitä. Scrum Masterin tehtävä on poistaa esteet kehitystiimin tieltä. Tässä projektissa päivittäispalavereja ei pidetä, vaan viestimme sprintin etenemisestä Teamsissa.
 
-
-1. **Sprintin suunnittelu**
-
-   Sprintin suunnittelu tehdään yhdessä Scrum-tiimin kanssa. Suunnittelun tarkoitus on kasvattaa tuotteen arvoa ja siinä valitaan seuraavaksi tehtävät työt kehitysjonosta. Tuoteomistaja varmistaa, että valitut työt edistävät tuotteen tavoitetta. Työt määritellään niin, että suunniteltu inkrementti saadaan valmiiksi. Suunnittelussa määritellään siis sprintin tavoite.
-
-2. **Sprintin katselmointi**
+2. **Sprintin katselmointi** (Sprint review)
 
    Katselmoinnissa tarkastellaan sprintin tuloksia ja arvioidaan vastaavatko ne sprintin tavoittetta. Tulokset esitellään tuoteomistajalle ja muille sidosryhmille, jotka ovat tässä tapauksessa muita opiskelijoita. Katselmoinnisa voidaan myös muokata työjonoa ja keskustella seuraavista tehtävistä.
 
-3. **Sprintin retrospektiivi**
+4. **Sprintin retrospektiivi** (Sprint retrospective)
 
-   Retrospektiivissa arviodaan menneen sprintin yhteistyötä, prosesseja ja työkaluja. Retrospektiivissa arvioidaan myös sitä, miten hyvin inkrementti vastasi valmiin määritelmää. Tarkoituksena on tunnistaa kehityskohteita työmenetelmissä, jotta tehokkuutta voidaan parantaa. Retrospektiivi päättää sprintin. 
+   Retrospektiivissa arviodaan menneen sprintin yhteistyötä, prosesseja ja työkaluja. Retrospektiivissa arvioidaan myös sitä, miten hyvin inkrementti vastasi valmiin määritelmää. Tarkoituksena on tunnistaa kehityskohteita työmenetelmissä, jotta tehokkuutta voidaan parantaa. Toisin sanoen retrospektiivin tärkein kysymys on 'Mitä voitaisiin tehdä seuraavassa sprintissä paremmin?' Retrospektiivi päättää sprintin. 
 
-4. **Päivittäispalaveri**
-
-   Päivittäispalaverissa tarkastellaan työn etenemistä kohti sprintin tavoitetta. Tässä Projektissa ei pidetä päivittäispalaveraja, mutta työn edistymisestä viestitään Teams-ryhmässä.
 ___
 ## Tuotokset
 Scrumin tuotokset ovat työtä ja sen tuottamaa arvoa. Tuotosten on tarkoitus lisätä läpinäkyvyyttä niin, että kaikilla on mahdollisuus tarkastella asioita samoista lähtökohdista.
@@ -66,7 +54,9 @@ Tuotteen kehitysjonossa olevien töiden pitää edistää tuotteen tavoitteen sa
 
 
 ### Sprintin kehitysjono
-Sprintin kehitysjonon kohtien pitää edistää sprintin saavuttamista. Sprintin kehitysjono vastaa kolmeen kysymykseen. Ensimmäinen kysymys edustaa sprintin tavoitetta: **Miksi työtä tehdään?** Seuraavana ovat tuotteen kehitysjonosta sprinttiin valitut kohdat: **Mitä tehdään?** Viimeisenä on käytännön suuunnitelma työn tekemiseksi: **Miten valmis inkrementti toteutetaan?**
+Sprintin kehitysjonon kohtien pitää edistää sprintin saavuttamista. Sprintin kehitysjono vastaa kolmeen kysymykseen. Ensimmäinen kysymys edustaa sprintin tavoitetta: **Miksi työtä tehdään?** 
+Seuraavana ovat tuotteen kehitysjonosta sprinttiin valitut kohdat: **Mitä tehdään?** 
+Viimeisenä on käytännön suuunnitelma työn tekemiseksi: **Miten valmis inkrementti toteutetaan?**
 
 ### Inkrementti
 Inkrementti on askel kohti tuotteen tavoitetta. Yhdessä sprintissä voidaan tehdä useampia inkrementtejä. Inkrementti syntyy vasta silloin kun tuotteen kehitysjonon kohta täyttää valmiin määritelmän.
