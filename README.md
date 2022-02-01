@@ -76,6 +76,16 @@ ___
 - **Scrum Master** : pitää päättää
 - **Tuotteen omistaja (Product Owner)** : kurssin opettaja 
 - **Kehitystiimi (Development team)**
+    
+   [jRuuskis](https://github.com/jruuskis)
+
+   [PaiviInkeri](https://github.com/PaiviInkeri)
+
+   [SwitchVarial](https://github.com/SwitchVarial)
+
+   [dziennikarka](https://github.com/dziennikarka)
+
+   [RAV64](https://github.com/RAV64)
 ___
 ## Kokoukset
 Kokoukset järjestetään tarvittaessa. Sovimme kokouksista Teamsissa. 
